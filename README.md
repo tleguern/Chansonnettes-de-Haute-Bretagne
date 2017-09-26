@@ -5,7 +5,7 @@ Published by Yves Defrance in October 1988.
 In this project I will try to present modern and readable music scores to the
 hand-drawn ones contained in the PDF report `Ethno_Defrance_1988_035.pdf`.
 
-# TODO
+## TODO
 
 Chants de travail :
 
@@ -73,4 +73,9 @@ Chants à la marche :
 - [ ] 321
 - [ ] 322
 - [ ] 324
+
+## Compilation
+
+On Debian-based distributions you should use the `bmake` package and
+command to build this project. It is a port of NetBSD's make.
 
