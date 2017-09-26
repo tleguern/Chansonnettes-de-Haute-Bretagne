@@ -1,6 +1,11 @@
 # Le genre court en littérature orale : Chansonnettes de Haute-Bretagne
 
-Yves Defrance, octobre 1988.
+Published by Yves Defrance in October 1988.
+
+In this project I will try to present modern and readable music scores to the
+hand-drawn ones contained in the PDF report `Ethno_Defrance_1988_035.pdf`.
+
+# TODO
 
 Chants de travail :
 
@@ -27,7 +32,7 @@ Chants de travail :
 
 Chants à la marche :
 
-- [ ] 252
+- [X] 252
 - [X] 255
 - [ ] 258
 - [ ] 261
