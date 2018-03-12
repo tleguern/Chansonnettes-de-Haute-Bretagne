@@ -18,6 +18,7 @@ SRCS= yvesdefrance_1.ly \
 	yvesdefrance_252.ly \
 	yvesdefrance_255.ly \
 	yvesdefrance_258.ly \
+	yvesdefrance_261.ly
 	yvesdefrance_263.ly
 
 OBJS=${SRCS:.ly=.pdf}
