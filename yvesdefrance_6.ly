@@ -12,7 +12,7 @@
 	\new Staff \relative sib {
 		\clef "treble"
 		\time 6/8
-		\tempo 4 = 120
+		\tempo 4. = 90
 
 		\repeat unfold 2 {
 			| la'8 la la la4 la8

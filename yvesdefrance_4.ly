@@ -12,7 +12,7 @@
 	\new Staff \relative sib {
 		\clef "treble"
 		\time 6/8
-		\tempo 4 = 120
+		\tempo 4. = 90
 
 		| si'4 sol8 re4 sol8
 		| do4 si8 la4.

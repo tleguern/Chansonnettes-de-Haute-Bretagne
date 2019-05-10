@@ -12,6 +12,7 @@
 	\new Staff \relative sib {
 		\clef "treble"
 		\time 6/8
+		\tempo 4. = 75
 
 		| re8 sol la si si si
 		| si sol la si4.
@@ -23,10 +24,14 @@
 		| do si la sol4.
 	}
 	\addlyrics {
-		Ar -- rê -- tez moi Mon -- sieur j'ai mes af -- faires
-		En ce mo -- ment j'ap -- par -- tiens t-aux An -- glais
-		N'es -- sa -- yez pas de prou -- ver ce mys -- tère
-		Car vous ver -- riez cou -- ler du sang fran -- çais.
+		| Ar -- rê -- tez moi Mon -- sieur
+		| j'ai mes af -- faires
+		| En ce mo -- ment j'ap -- par --
+		| tiens t-aux An -- glais
+		| N'es -- sa -- yez pas de prou --
+		| ver ce mys -- tère
+		| Car vous ver -- riez cou -- ler
+		| du sang fran -- çais.
 	}
 	\layout {}
 	\midi {}

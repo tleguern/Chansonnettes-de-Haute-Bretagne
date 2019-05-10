@@ -9,12 +9,12 @@
 }
 
 \score {
-	\new Staff \relative sib {
+	\new Staff \relative sib' {
 		\clef "treble"
 		\time 6/8
-		\tempo 4 = 120
+		\tempo 4. = 75
 
-		| sol'4 mi8. re16 sol4
+		| sol4 mi8. re16 sol4
 		| r8 re sol la si sol
 		| do si la4 sol
 		\break
@@ -26,16 +26,16 @@
 		| r la' do
 		| mi, r8 re sol la
 		\time 2/8
-		| si4
+		| sol4
 	}
 	\addlyrics {
-		| Une pel -- le blanche
-		| Une pelle a -- vec son
+		| Une pe -- lle blanche
+		  Une pelle a -- vec son
 		| jo -- li man -- che.
-		| Pelle en
+		  Pelle en
 		| haut, tu n'au -- ras
 		| guè -- re
-		| Pelle en
+		  Pelle en
 		| bas, tu n'aur -- as
 		| pas.
 	}

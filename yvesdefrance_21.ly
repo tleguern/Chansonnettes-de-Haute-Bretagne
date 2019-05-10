@@ -9,16 +9,15 @@
 }
 
 \score {
-	\new Staff \relative sib {
+	\new Staff \relative sib' {
 		\clef "treble"
-		\time 11/8
+		\tempo 4. = 75
 
-		| sol'4 la8 si4 si8 si sol la si4 
-		| sol4 la8 si4 si8 re8 do si la4
 		\time 12/8
-		| fad4 sol8 la4 la8 la fa sol la4 la8
-		\time 11/8
-		| fad4 sol8 la4 la8 do si la sol4
+		| sol4 la8 si4 si8 si sol la si4.
+		| sol4 la8 si4 si8 re do si la4.
+		| fad4 sol8 la4 la8 la fad sol la4 la8
+		| fad4 sol8 la4 la8 do si la sol4.
 	}
 	\addlyrics {
 		| J'au vu tes pe -- tits pieds ma chère

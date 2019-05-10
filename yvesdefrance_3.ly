@@ -9,19 +9,20 @@
 }
 
 \score {
-	\new Staff \relative sib {
+	\new Staff \relative sib' {
 		\clef "treble"
-		\time 6/8
-		\tempo 4 = 120
+		\tempo 4. = 75
 
-		| sol'8 sol sol la sol mi
-		| re4. si'4 r8
-		| la si do si4 la8
+		\time 9/8
+		| sol8 sol sol la sol mi re4.
+		| si'4 r8 la si do si4 la8
+		\time 3/8
 		| sol4.
 	}
 	\addlyrics {
 		| Ton na -- vire, ton na -- vire belle
-		Ton na -- vi -- re n'est pas bon.
+		| Ton na -- vi -- re n'est pas
+		| bon.
 	}
 	\layout {}
 	\midi {}

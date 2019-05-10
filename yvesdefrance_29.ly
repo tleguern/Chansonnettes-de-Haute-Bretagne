@@ -12,22 +12,26 @@
 	\new Staff \relative sib {
 		\clef "treble"
 		\time 6/8
-		\tempo 4 = 120
+		\tempo 4. = 75
 
 		| re8 mi fad sol sol sol
 		| sol fad mi re4.
-		| re8 mi fa sol sol sol
+		| re8 mi fad sol sol sol
 		| sol fad mi re4 re8
-		| do'4 si8 la4 si8
+		| do'4 si8 la4 la8
 		| si4 re8 sol,4.
 		| sol8 la si la la la
 		| la mi fad sol4.
 	}
 	\addlyrics {
-		| Ma -- rie Mar -- got s'en -- dor -- mit dans un pré
-		Les jambes en l'air et les cuisses é -- car -- tées
-		Tous les cor -- beaux lui piquent au cul
-		Mar -- ie Mar -- got pour -- quoi t'en -- dor -- mais tu?
+		| Ma -- rie Mar -- got s'en -- dor --
+		| mit dans un pré
+		| Les jambes en l'air et les
+		| cuisses é -- car -- tées Tous
+		| les cor -- beaux lui
+		| piquent au cul
+		| Mar -- ie Mar -- got pour -- quoi
+		| t'en -- dor -- mais tu?
 	}
 	\layout {}
 	\midi {}

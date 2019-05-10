@@ -14,10 +14,11 @@
 		\time 4/4
 		\tempo 4 = 100
 
-		| re8 sol la si si si4 r8 
+		| re8 sol la si si si4 r8
 		| si8 re re si sol la4 r8
 		| re,8 fad sol la la la4 r8
 		| la8 \times 2/3 { re4 do8 } \times 2/3 { si4 la8 } sol4 r8
+		% last pause not present in source, perhaps it is a sol4.
 	}
 	\addlyrics {
 		| La -- mer qui nous bal -- lotte
