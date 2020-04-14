@@ -71,10 +71,9 @@ Chants à la marche :
 - [ ] 316
 - [ ] 321
 - [ ] 322
-- [ ] 324
+- [X] 324
 
 ## Compilation
 
 On Debian-based distributions you should use the `bmake` package and
 command to build this project. It is a port of NetBSD's make.
-
