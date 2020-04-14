@@ -70,7 +70,7 @@ Chants à la marche :
 - [ ] 315
 - [ ] 316
 - [ ] 321
-- [ ] 322
+- [X] 322
 - [X] 324
 
 ## Compilation
