@@ -38,6 +38,7 @@
 			\time 3/4
 			| sol8 la si4 sol % la4 si sol
 		}
+	}
 }
 
 \score {
