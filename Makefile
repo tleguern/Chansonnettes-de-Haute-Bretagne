@@ -9,18 +9,22 @@ SRCS= yvesdefrance_1.ly \
 	yvesdefrance_9.ly \
 	yvesdefrance_10.ly \
 	yvesdefrance_11.ly \
+	yvesdefrance_12.ly \
 	yvesdefrance_14.ly \
 	yvesdefrance_15.ly \
 	yvesdefrance_16.ly \
 	yvesdefrance_19.ly \
 	yvesdefrance_21.ly \
 	yvesdefrance_29.ly \
+	yvesdefrance_30.ly \
 	yvesdefrance_252.ly \
 	yvesdefrance_255.ly \
 	yvesdefrance_258.ly \
-	yvesdefrance_261.ly
-	yvesdefrance_263.ly
+	yvesdefrance_262.ly \
+	yvesdefrance_263.ly \
 	yvesdefrance_273.ly
+
+FAIL= yvesdefrance_261.ly \
 
 OBJS=${SRCS:.ly=.pdf}
 
